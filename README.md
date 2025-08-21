@@ -1,8 +1,14 @@
 # RideHailingApp
 
 
-**Run the folowing commands **
-**Compiling command** -> g++ src/*.cpp -I include -o build/RideHailingApp
-Please refer to the internet or connect with us if any errors comes while compiling the project....
+## Run the following commands
+### Compiling command
+```bash
+ g++ src/*.cpp -I include -o build/RideHailingApp
+```
+Please refer to the internet or connect with us if any errors come while compiling the project....
 
-**After succesful buid Run this command** -> build\RideHailingApp
+### Run after successful build
+```bash
+ build/RideHailingApp
+```
